@@ -1,0 +1,1501 @@
+borrower_id,province,age_group,risk_segment
+B00001,Central Java,55+,Low
+B00002,DKI Jakarta,35-44,Low
+B00003,Banten,25-34,Low
+B00004,North Sumatra,18-24,Low
+B00005,West Java,55+,Low
+B00006,DKI Jakarta,45-54,Low
+B00007,Banten,25-34,Low
+B00008,DKI Jakarta,45-54,High
+B00009,Central Java,25-34,Low
+B00010,East Java,25-34,Medium
+B00011,DKI Jakarta,35-44,Low
+B00012,West Java,45-54,Medium
+B00013,DKI Jakarta,25-34,Medium
+B00014,North Sumatra,18-24,Low
+B00015,DKI Jakarta,35-44,Low
+B00016,DKI Jakarta,45-54,Medium
+B00017,Central Java,35-44,Low
+B00018,Central Java,35-44,Medium
+B00019,South Sulawesi,18-24,Low
+B00020,West Java,25-34,Medium
+B00021,Banten,25-34,Medium
+B00022,DKI Jakarta,55+,Low
+B00023,East Java,25-34,Low
+B00024,North Sumatra,25-34,Low
+B00025,South Sulawesi,35-44,Medium
+B00026,DKI Jakarta,25-34,Low
+B00027,DKI Jakarta,18-24,Low
+B00028,Central Java,25-34,Low
+B00029,DKI Jakarta,55+,Low
+B00030,Yogyakarta,55+,Low
+B00031,Central Java,55+,Low
+B00032,North Sumatra,35-44,Low
+B00033,DKI Jakarta,25-34,High
+B00034,North Sumatra,35-44,Medium
+B00035,West Java,35-44,Low
+B00036,West Java,35-44,Low
+B00037,DKI Jakarta,25-34,Low
+B00038,South Sulawesi,45-54,Low
+B00039,East Java,45-54,Medium
+B00040,West Java,25-34,Medium
+B00041,DKI Jakarta,25-34,Low
+B00042,Riau,35-44,Low
+B00043,Central Java,35-44,High
+B00044,East Java,35-44,Low
+B00045,Banten,35-44,Medium
+B00046,Yogyakarta,35-44,Medium
+B00047,West Java,25-34,Medium
+B00048,DKI Jakarta,35-44,Medium
+B00049,Riau,45-54,Medium
+B00050,West Java,25-34,Low
+B00051,DKI Jakarta,25-34,High
+B00052,Bali,25-34,High
+B00053,South Sulawesi,55+,Medium
+B00054,Central Java,25-34,Low
+B00055,Central Java,25-34,Low
+B00056,DKI Jakarta,25-34,Low
+B00057,Banten,25-34,Low
+B00058,Banten,18-24,High
+B00059,Central Java,35-44,Low
+B00060,East Java,25-34,Medium
+B00061,Banten,35-44,Medium
+B00062,North Sumatra,35-44,Low
+B00063,Central Java,25-34,Low
+B00064,Central Java,18-24,Low
+B00065,West Java,25-34,High
+B00066,Banten,35-44,Low
+B00067,DKI Jakarta,45-54,Medium
+B00068,DKI Jakarta,45-54,Low
+B00069,DKI Jakarta,35-44,Low
+B00070,DKI Jakarta,18-24,Medium
+B00071,Central Java,25-34,Medium
+B00072,DKI Jakarta,45-54,Low
+B00073,West Java,55+,Low
+B00074,East Java,18-24,Low
+B00075,South Sulawesi,25-34,High
+B00076,DKI Jakarta,18-24,Medium
+B00077,North Sumatra,35-44,Low
+B00078,Yogyakarta,35-44,Medium
+B00079,DKI Jakarta,45-54,Medium
+B00080,East Java,25-34,Medium
+B00081,Central Java,25-34,Low
+B00082,Bali,25-34,Low
+B00083,West Java,45-54,Low
+B00084,North Sumatra,45-54,High
+B00085,North Sumatra,25-34,Medium
+B00086,DKI Jakarta,25-34,Medium
+B00087,Bali,25-34,Low
+B00088,Banten,18-24,Low
+B00089,Banten,35-44,Medium
+B00090,DKI Jakarta,45-54,Medium
+B00091,DKI Jakarta,45-54,Low
+B00092,DKI Jakarta,55+,Low
+B00093,DKI Jakarta,25-34,Medium
+B00094,Central Java,25-34,Low
+B00095,Central Java,18-24,Low
+B00096,West Java,25-34,Low
+B00097,Central Java,45-54,Medium
+B00098,DKI Jakarta,25-34,Medium
+B00099,West Java,18-24,Medium
+B00100,East Java,25-34,Medium
+B00101,Yogyakarta,25-34,Medium
+B00102,Bali,18-24,Medium
+B00103,South Sulawesi,35-44,Low
+B00104,Bali,35-44,Low
+B00105,Central Java,25-34,Low
+B00106,DKI Jakarta,45-54,Medium
+B00107,South Sulawesi,35-44,Medium
+B00108,East Java,35-44,Low
+B00109,East Java,35-44,Medium
+B00110,DKI Jakarta,25-34,Low
+B00111,West Java,25-34,High
+B00112,DKI Jakarta,35-44,Medium
+B00113,DKI Jakarta,25-34,Low
+B00114,Central Java,35-44,Medium
+B00115,Bali,25-34,Low
+B00116,North Sumatra,25-34,Medium
+B00117,West Java,25-34,Medium
+B00118,Central Java,25-34,Low
+B00119,East Java,25-34,Low
+B00120,East Java,35-44,Low
+B00121,South Sulawesi,25-34,Medium
+B00122,Banten,35-44,Low
+B00123,South Sulawesi,25-34,Low
+B00124,West Java,35-44,Medium
+B00125,Banten,18-24,Medium
+B00126,South Sulawesi,35-44,Low
+B00127,Riau,25-34,Low
+B00128,DKI Jakarta,35-44,Low
+B00129,DKI Jakarta,35-44,Medium
+B00130,Banten,18-24,High
+B00131,West Java,45-54,Medium
+B00132,Banten,25-34,Medium
+B00133,West Java,35-44,Low
+B00134,West Java,25-34,High
+B00135,DKI Jakarta,35-44,Low
+B00136,DKI Jakarta,35-44,Medium
+B00137,Riau,25-34,Low
+B00138,DKI Jakarta,18-24,Low
+B00139,Banten,18-24,Medium
+B00140,West Java,18-24,High
+B00141,Bali,25-34,Low
+B00142,Central Java,45-54,Medium
+B00143,Yogyakarta,45-54,Low
+B00144,South Sulawesi,35-44,Low
+B00145,West Java,25-34,Medium
+B00146,East Java,18-24,Low
+B00147,Riau,45-54,Low
+B00148,West Java,45-54,Low
+B00149,West Java,35-44,Low
+B00150,West Java,55+,Low
+B00151,DKI Jakarta,25-34,Low
+B00152,East Java,35-44,Medium
+B00153,West Java,45-54,Medium
+B00154,West Java,25-34,Medium
+B00155,DKI Jakarta,35-44,Medium
+B00156,Central Java,18-24,High
+B00157,Banten,18-24,Low
+B00158,East Java,18-24,Medium
+B00159,DKI Jakarta,35-44,Medium
+B00160,DKI Jakarta,25-34,High
+B00161,DKI Jakarta,45-54,Medium
+B00162,North Sumatra,25-34,Low
+B00163,West Java,25-34,High
+B00164,Riau,45-54,Low
+B00165,South Sulawesi,35-44,Medium
+B00166,East Java,25-34,Low
+B00167,North Sumatra,55+,Medium
+B00168,West Java,35-44,Low
+B00169,West Java,18-24,Medium
+B00170,South Sulawesi,25-34,Medium
+B00171,West Java,25-34,Low
+B00172,East Java,25-34,High
+B00173,DKI Jakarta,25-34,Low
+B00174,Banten,18-24,Medium
+B00175,South Sulawesi,25-34,Low
+B00176,DKI Jakarta,18-24,Medium
+B00177,DKI Jakarta,45-54,Medium
+B00178,DKI Jakarta,35-44,Medium
+B00179,DKI Jakarta,25-34,Medium
+B00180,Banten,25-34,Medium
+B00181,West Java,25-34,Low
+B00182,North Sumatra,45-54,Medium
+B00183,DKI Jakarta,25-34,Low
+B00184,Central Java,55+,Medium
+B00185,West Java,35-44,Low
+B00186,West Java,25-34,Low
+B00187,DKI Jakarta,25-34,Medium
+B00188,West Java,35-44,Low
+B00189,North Sumatra,45-54,Medium
+B00190,South Sulawesi,18-24,Low
+B00191,East Java,55+,Medium
+B00192,DKI Jakarta,25-34,Medium
+B00193,North Sumatra,35-44,Medium
+B00194,Banten,25-34,Medium
+B00195,East Java,45-54,Medium
+B00196,Central Java,25-34,Low
+B00197,West Java,35-44,Low
+B00198,Bali,45-54,Low
+B00199,DKI Jakarta,35-44,Medium
+B00200,Central Java,45-54,Medium
+B00201,East Java,18-24,Medium
+B00202,Bali,18-24,Low
+B00203,DKI Jakarta,55+,Low
+B00204,Bali,25-34,Medium
+B00205,Central Java,45-54,Low
+B00206,DKI Jakarta,45-54,Medium
+B00207,DKI Jakarta,25-34,Medium
+B00208,West Java,45-54,Medium
+B00209,East Java,25-34,Medium
+B00210,Banten,45-54,Low
+B00211,North Sumatra,55+,Medium
+B00212,Riau,25-34,High
+B00213,West Java,45-54,Low
+B00214,North Sumatra,18-24,Medium
+B00215,Central Java,25-34,Low
+B00216,South Sulawesi,45-54,Medium
+B00217,West Java,55+,High
+B00218,Central Java,25-34,High
+B00219,East Java,25-34,Low
+B00220,Bali,25-34,Medium
+B00221,Central Java,25-34,Low
+B00222,Banten,45-54,Low
+B00223,West Java,45-54,Low
+B00224,DKI Jakarta,25-34,Low
+B00225,Central Java,25-34,Low
+B00226,Riau,25-34,Medium
+B00227,West Java,25-34,High
+B00228,Banten,25-34,Medium
+B00229,DKI Jakarta,25-34,Medium
+B00230,Riau,18-24,Low
+B00231,South Sulawesi,55+,Low
+B00232,Central Java,35-44,Low
+B00233,South Sulawesi,25-34,Low
+B00234,North Sumatra,25-34,Low
+B00235,Central Java,45-54,Low
+B00236,Central Java,45-54,Medium
+B00237,Bali,45-54,Medium
+B00238,South Sulawesi,25-34,Low
+B00239,DKI Jakarta,35-44,Low
+B00240,DKI Jakarta,35-44,Low
+B00241,Banten,25-34,Low
+B00242,East Java,25-34,Low
+B00243,DKI Jakarta,55+,Medium
+B00244,DKI Jakarta,35-44,High
+B00245,East Java,25-34,Low
+B00246,East Java,25-34,Medium
+B00247,West Java,35-44,Low
+B00248,Central Java,35-44,Low
+B00249,Banten,35-44,Low
+B00250,West Java,25-34,Medium
+B00251,East Java,25-34,Low
+B00252,South Sulawesi,18-24,Low
+B00253,Central Java,25-34,High
+B00254,West Java,18-24,Low
+B00255,DKI Jakarta,25-34,Medium
+B00256,DKI Jakarta,35-44,Low
+B00257,DKI Jakarta,35-44,Low
+B00258,Central Java,55+,Low
+B00259,Central Java,25-34,Low
+B00260,West Java,25-34,High
+B00261,DKI Jakarta,35-44,Low
+B00262,DKI Jakarta,45-54,Low
+B00263,Central Java,18-24,Low
+B00264,DKI Jakarta,55+,High
+B00265,DKI Jakarta,25-34,Low
+B00266,West Java,25-34,Low
+B00267,DKI Jakarta,18-24,Low
+B00268,DKI Jakarta,25-34,Low
+B00269,North Sumatra,25-34,Low
+B00270,Bali,25-34,High
+B00271,East Java,45-54,Low
+B00272,North Sumatra,35-44,Medium
+B00273,Yogyakarta,25-34,Low
+B00274,Central Java,35-44,High
+B00275,East Java,25-34,Low
+B00276,DKI Jakarta,35-44,High
+B00277,Banten,35-44,High
+B00278,North Sumatra,25-34,Low
+B00279,West Java,18-24,Medium
+B00280,Banten,25-34,Low
+B00281,West Java,25-34,Low
+B00282,Yogyakarta,18-24,Low
+B00283,Banten,35-44,Medium
+B00284,DKI Jakarta,25-34,Medium
+B00285,Banten,25-34,High
+B00286,Yogyakarta,55+,Medium
+B00287,East Java,25-34,Low
+B00288,North Sumatra,25-34,Medium
+B00289,DKI Jakarta,35-44,Medium
+B00290,West Java,25-34,Low
+B00291,Central Java,25-34,High
+B00292,East Java,18-24,Low
+B00293,Central Java,25-34,Medium
+B00294,North Sumatra,35-44,Low
+B00295,Bali,18-24,Low
+B00296,Yogyakarta,25-34,Medium
+B00297,West Java,45-54,Low
+B00298,Bali,45-54,Low
+B00299,East Java,45-54,High
+B00300,DKI Jakarta,35-44,Low
+B00301,West Java,35-44,Low
+B00302,South Sulawesi,18-24,Low
+B00303,DKI Jakarta,25-34,High
+B00304,Banten,35-44,Low
+B00305,West Java,25-34,High
+B00306,North Sumatra,35-44,Medium
+B00307,Central Java,35-44,Low
+B00308,DKI Jakarta,55+,Low
+B00309,DKI Jakarta,25-34,Medium
+B00310,East Java,35-44,Medium
+B00311,DKI Jakarta,45-54,Low
+B00312,East Java,25-34,Low
+B00313,Yogyakarta,25-34,Low
+B00314,East Java,35-44,Medium
+B00315,West Java,25-34,Low
+B00316,DKI Jakarta,45-54,Medium
+B00317,DKI Jakarta,55+,Low
+B00318,Central Java,35-44,High
+B00319,DKI Jakarta,55+,Low
+B00320,DKI Jakarta,35-44,Low
+B00321,Banten,18-24,Low
+B00322,Central Java,25-34,Low
+B00323,DKI Jakarta,18-24,High
+B00324,East Java,25-34,Medium
+B00325,North Sumatra,45-54,Medium
+B00326,West Java,25-34,Medium
+B00327,DKI Jakarta,35-44,Low
+B00328,DKI Jakarta,35-44,Low
+B00329,West Java,35-44,Medium
+B00330,West Java,45-54,Low
+B00331,North Sumatra,18-24,Low
+B00332,West Java,45-54,Medium
+B00333,Central Java,35-44,Low
+B00334,West Java,25-34,Medium
+B00335,Banten,35-44,High
+B00336,North Sumatra,25-34,Low
+B00337,South Sulawesi,35-44,Low
+B00338,North Sumatra,25-34,Medium
+B00339,Central Java,55+,Medium
+B00340,DKI Jakarta,25-34,Low
+B00341,Yogyakarta,18-24,Low
+B00342,West Java,25-34,Low
+B00343,DKI Jakarta,25-34,Medium
+B00344,East Java,25-34,Low
+B00345,West Java,45-54,Medium
+B00346,Central Java,18-24,Low
+B00347,DKI Jakarta,25-34,High
+B00348,North Sumatra,35-44,Low
+B00349,South Sulawesi,35-44,Low
+B00350,North Sumatra,25-34,Medium
+B00351,Central Java,18-24,Low
+B00352,North Sumatra,25-34,Medium
+B00353,DKI Jakarta,35-44,Low
+B00354,Banten,35-44,Low
+B00355,North Sumatra,25-34,Low
+B00356,East Java,45-54,Medium
+B00357,DKI Jakarta,45-54,High
+B00358,Riau,18-24,Medium
+B00359,Central Java,45-54,Medium
+B00360,West Java,25-34,Medium
+B00361,DKI Jakarta,25-34,Low
+B00362,Yogyakarta,25-34,Low
+B00363,Banten,25-34,Medium
+B00364,West Java,25-34,Low
+B00365,South Sulawesi,35-44,Medium
+B00366,Bali,25-34,Low
+B00367,Bali,45-54,Medium
+B00368,West Java,18-24,Low
+B00369,DKI Jakarta,25-34,High
+B00370,East Java,55+,Low
+B00371,Central Java,25-34,Medium
+B00372,Bali,25-34,Low
+B00373,West Java,25-34,High
+B00374,DKI Jakarta,35-44,Medium
+B00375,West Java,35-44,Low
+B00376,North Sumatra,35-44,Low
+B00377,West Java,45-54,High
+B00378,West Java,25-34,Low
+B00379,East Java,25-34,Low
+B00380,DKI Jakarta,35-44,Low
+B00381,North Sumatra,25-34,Medium
+B00382,East Java,25-34,Medium
+B00383,DKI Jakarta,45-54,High
+B00384,Bali,35-44,Low
+B00385,Yogyakarta,25-34,Medium
+B00386,West Java,35-44,Low
+B00387,DKI Jakarta,45-54,High
+B00388,North Sumatra,18-24,Low
+B00389,DKI Jakarta,55+,High
+B00390,DKI Jakarta,45-54,High
+B00391,Banten,25-34,Low
+B00392,South Sulawesi,35-44,Medium
+B00393,East Java,18-24,Medium
+B00394,Banten,18-24,Low
+B00395,Yogyakarta,45-54,Low
+B00396,North Sumatra,25-34,Low
+B00397,West Java,18-24,High
+B00398,West Java,55+,Low
+B00399,West Java,35-44,Medium
+B00400,East Java,35-44,Low
+B00401,Banten,25-34,Medium
+B00402,West Java,35-44,Low
+B00403,DKI Jakarta,25-34,Low
+B00404,Central Java,35-44,High
+B00405,North Sumatra,25-34,Low
+B00406,Central Java,18-24,Medium
+B00407,West Java,55+,Low
+B00408,Banten,18-24,Low
+B00409,West Java,45-54,Medium
+B00410,South Sulawesi,35-44,Low
+B00411,Riau,45-54,Low
+B00412,Bali,25-34,Medium
+B00413,Yogyakarta,35-44,Medium
+B00414,Banten,45-54,Medium
+B00415,West Java,18-24,Low
+B00416,DKI Jakarta,25-34,Low
+B00417,South Sulawesi,55+,Medium
+B00418,Banten,35-44,Low
+B00419,East Java,45-54,Low
+B00420,East Java,25-34,Low
+B00421,West Java,25-34,Medium
+B00422,DKI Jakarta,25-34,Medium
+B00423,Banten,35-44,Low
+B00424,West Java,45-54,Low
+B00425,Banten,25-34,High
+B00426,Yogyakarta,18-24,High
+B00427,East Java,35-44,Medium
+B00428,DKI Jakarta,25-34,Medium
+B00429,South Sulawesi,35-44,Medium
+B00430,West Java,25-34,Low
+B00431,West Java,35-44,Low
+B00432,South Sulawesi,25-34,Medium
+B00433,Central Java,35-44,Low
+B00434,Riau,35-44,Low
+B00435,North Sumatra,25-34,Low
+B00436,Yogyakarta,25-34,High
+B00437,Bali,25-34,Low
+B00438,Bali,35-44,Low
+B00439,DKI Jakarta,55+,Medium
+B00440,Yogyakarta,25-34,Low
+B00441,East Java,18-24,Low
+B00442,DKI Jakarta,25-34,Medium
+B00443,West Java,18-24,Low
+B00444,Banten,18-24,Medium
+B00445,West Java,55+,Low
+B00446,West Java,35-44,Low
+B00447,DKI Jakarta,35-44,Low
+B00448,North Sumatra,45-54,Low
+B00449,Banten,25-34,Medium
+B00450,South Sulawesi,35-44,Low
+B00451,East Java,55+,Low
+B00452,Bali,45-54,Low
+B00453,West Java,45-54,Medium
+B00454,Yogyakarta,35-44,Low
+B00455,DKI Jakarta,25-34,Low
+B00456,DKI Jakarta,55+,High
+B00457,DKI Jakarta,25-34,High
+B00458,West Java,35-44,Low
+B00459,Yogyakarta,18-24,Low
+B00460,DKI Jakarta,18-24,High
+B00461,Banten,55+,Medium
+B00462,Bali,25-34,Medium
+B00463,DKI Jakarta,25-34,Low
+B00464,West Java,18-24,Low
+B00465,South Sulawesi,18-24,High
+B00466,South Sulawesi,25-34,Low
+B00467,West Java,35-44,Medium
+B00468,Central Java,18-24,Low
+B00469,DKI Jakarta,35-44,Medium
+B00470,West Java,35-44,Medium
+B00471,South Sulawesi,45-54,Medium
+B00472,Central Java,18-24,Medium
+B00473,North Sumatra,45-54,Low
+B00474,Central Java,18-24,Medium
+B00475,Banten,25-34,Medium
+B00476,West Java,55+,Low
+B00477,Riau,35-44,Medium
+B00478,South Sulawesi,35-44,Low
+B00479,East Java,45-54,Medium
+B00480,DKI Jakarta,25-34,High
+B00481,Central Java,25-34,Low
+B00482,West Java,25-34,Low
+B00483,Riau,55+,Low
+B00484,Central Java,35-44,Low
+B00485,Central Java,18-24,High
+B00486,DKI Jakarta,25-34,Medium
+B00487,Banten,18-24,Medium
+B00488,Banten,25-34,Medium
+B00489,South Sulawesi,45-54,High
+B00490,West Java,18-24,Medium
+B00491,Central Java,25-34,Low
+B00492,East Java,25-34,Low
+B00493,Bali,25-34,Low
+B00494,DKI Jakarta,45-54,Low
+B00495,DKI Jakarta,18-24,Low
+B00496,Banten,25-34,Low
+B00497,Banten,25-34,Medium
+B00498,DKI Jakarta,25-34,Low
+B00499,North Sumatra,18-24,Low
+B00500,DKI Jakarta,18-24,Low
+B00501,North Sumatra,18-24,Medium
+B00502,East Java,25-34,Low
+B00503,South Sulawesi,35-44,Low
+B00504,East Java,35-44,Low
+B00505,South Sulawesi,55+,Medium
+B00506,Bali,25-34,Low
+B00507,West Java,25-34,Medium
+B00508,Banten,35-44,Medium
+B00509,East Java,25-34,Low
+B00510,Central Java,35-44,High
+B00511,DKI Jakarta,25-34,High
+B00512,South Sulawesi,35-44,Medium
+B00513,West Java,45-54,Low
+B00514,South Sulawesi,35-44,Medium
+B00515,West Java,35-44,High
+B00516,West Java,35-44,Low
+B00517,East Java,18-24,Low
+B00518,DKI Jakarta,18-24,Low
+B00519,Central Java,55+,Low
+B00520,Central Java,35-44,Medium
+B00521,DKI Jakarta,35-44,Medium
+B00522,West Java,35-44,Medium
+B00523,North Sumatra,45-54,Low
+B00524,DKI Jakarta,35-44,Medium
+B00525,East Java,45-54,Medium
+B00526,East Java,25-34,Medium
+B00527,East Java,45-54,Low
+B00528,DKI Jakarta,18-24,Low
+B00529,Bali,35-44,High
+B00530,DKI Jakarta,25-34,Medium
+B00531,Central Java,45-54,Low
+B00532,Bali,45-54,Low
+B00533,West Java,18-24,Low
+B00534,North Sumatra,25-34,High
+B00535,North Sumatra,25-34,Medium
+B00536,East Java,35-44,Low
+B00537,West Java,45-54,Medium
+B00538,West Java,35-44,Low
+B00539,East Java,35-44,High
+B00540,Banten,45-54,High
+B00541,DKI Jakarta,25-34,Low
+B00542,Banten,55+,High
+B00543,Bali,25-34,Low
+B00544,West Java,45-54,Low
+B00545,West Java,35-44,Low
+B00546,North Sumatra,25-34,Medium
+B00547,East Java,35-44,Low
+B00548,DKI Jakarta,25-34,Low
+B00549,Bali,18-24,High
+B00550,Central Java,18-24,Medium
+B00551,West Java,35-44,Low
+B00552,DKI Jakarta,18-24,Medium
+B00553,East Java,25-34,Low
+B00554,West Java,18-24,Low
+B00555,East Java,35-44,High
+B00556,Banten,45-54,High
+B00557,West Java,35-44,Medium
+B00558,East Java,25-34,Medium
+B00559,Central Java,25-34,Low
+B00560,East Java,35-44,Low
+B00561,North Sumatra,25-34,Low
+B00562,West Java,45-54,High
+B00563,South Sulawesi,45-54,Low
+B00564,North Sumatra,35-44,Medium
+B00565,DKI Jakarta,25-34,Low
+B00566,West Java,25-34,Low
+B00567,Yogyakarta,25-34,High
+B00568,Central Java,55+,Low
+B00569,DKI Jakarta,35-44,Medium
+B00570,DKI Jakarta,35-44,Medium
+B00571,West Java,18-24,Low
+B00572,North Sumatra,25-34,Medium
+B00573,East Java,25-34,Low
+B00574,Central Java,18-24,Low
+B00575,North Sumatra,18-24,High
+B00576,West Java,25-34,Medium
+B00577,West Java,25-34,Medium
+B00578,North Sumatra,45-54,High
+B00579,DKI Jakarta,45-54,Low
+B00580,South Sulawesi,45-54,Low
+B00581,North Sumatra,45-54,Medium
+B00582,Banten,18-24,High
+B00583,DKI Jakarta,18-24,Low
+B00584,Central Java,35-44,High
+B00585,East Java,35-44,Low
+B00586,Bali,25-34,Medium
+B00587,North Sumatra,55+,Low
+B00588,DKI Jakarta,35-44,Medium
+B00589,West Java,25-34,Low
+B00590,North Sumatra,35-44,Low
+B00591,DKI Jakarta,25-34,Low
+B00592,South Sulawesi,25-34,Low
+B00593,West Java,25-34,Low
+B00594,DKI Jakarta,35-44,Medium
+B00595,East Java,35-44,Medium
+B00596,North Sumatra,45-54,Medium
+B00597,East Java,25-34,Medium
+B00598,North Sumatra,35-44,Low
+B00599,DKI Jakarta,45-54,Medium
+B00600,West Java,55+,Low
+B00601,East Java,35-44,Medium
+B00602,South Sulawesi,35-44,Low
+B00603,East Java,35-44,Medium
+B00604,West Java,25-34,Medium
+B00605,West Java,25-34,Low
+B00606,Yogyakarta,25-34,Low
+B00607,DKI Jakarta,45-54,Low
+B00608,Bali,25-34,Low
+B00609,West Java,25-34,High
+B00610,Banten,25-34,Medium
+B00611,West Java,18-24,Low
+B00612,DKI Jakarta,45-54,Medium
+B00613,Bali,35-44,Medium
+B00614,Central Java,45-54,Medium
+B00615,South Sulawesi,35-44,Low
+B00616,DKI Jakarta,25-34,Low
+B00617,Banten,35-44,Medium
+B00618,Yogyakarta,18-24,Medium
+B00619,West Java,45-54,Low
+B00620,West Java,18-24,Low
+B00621,South Sulawesi,35-44,Low
+B00622,East Java,25-34,Low
+B00623,Bali,45-54,Medium
+B00624,East Java,25-34,Low
+B00625,Central Java,25-34,Low
+B00626,Banten,35-44,Low
+B00627,West Java,45-54,Low
+B00628,DKI Jakarta,45-54,Low
+B00629,Central Java,45-54,Low
+B00630,West Java,35-44,High
+B00631,Central Java,45-54,Low
+B00632,East Java,25-34,Low
+B00633,North Sumatra,55+,Medium
+B00634,Riau,45-54,Medium
+B00635,West Java,35-44,Medium
+B00636,East Java,25-34,Low
+B00637,Yogyakarta,25-34,Low
+B00638,Banten,25-34,High
+B00639,Central Java,45-54,Low
+B00640,DKI Jakarta,35-44,Low
+B00641,Central Java,45-54,Low
+B00642,Central Java,35-44,Medium
+B00643,DKI Jakarta,35-44,Low
+B00644,East Java,25-34,Low
+B00645,South Sulawesi,35-44,Medium
+B00646,DKI Jakarta,25-34,Low
+B00647,East Java,45-54,Medium
+B00648,West Java,45-54,Medium
+B00649,South Sulawesi,25-34,Medium
+B00650,Bali,35-44,Low
+B00651,Central Java,25-34,Medium
+B00652,Banten,35-44,Low
+B00653,DKI Jakarta,35-44,Medium
+B00654,West Java,25-34,Low
+B00655,East Java,35-44,Medium
+B00656,DKI Jakarta,35-44,Low
+B00657,East Java,25-34,High
+B00658,Yogyakarta,18-24,Medium
+B00659,West Java,25-34,High
+B00660,South Sulawesi,35-44,Medium
+B00661,Banten,35-44,Low
+B00662,Yogyakarta,25-34,Low
+B00663,Bali,25-34,Medium
+B00664,West Java,35-44,Low
+B00665,Central Java,25-34,Low
+B00666,North Sumatra,55+,Low
+B00667,West Java,55+,Medium
+B00668,Banten,18-24,Low
+B00669,East Java,35-44,Low
+B00670,East Java,45-54,Medium
+B00671,Central Java,45-54,Medium
+B00672,West Java,35-44,Medium
+B00673,Bali,25-34,Medium
+B00674,DKI Jakarta,35-44,Low
+B00675,Central Java,45-54,Medium
+B00676,Central Java,35-44,Low
+B00677,West Java,35-44,Medium
+B00678,West Java,18-24,High
+B00679,East Java,45-54,Medium
+B00680,DKI Jakarta,25-34,Low
+B00681,DKI Jakarta,55+,Medium
+B00682,Yogyakarta,35-44,Medium
+B00683,DKI Jakarta,55+,Low
+B00684,Yogyakarta,35-44,High
+B00685,West Java,25-34,Low
+B00686,Central Java,35-44,Low
+B00687,West Java,45-54,Medium
+B00688,Central Java,35-44,Medium
+B00689,South Sulawesi,18-24,Low
+B00690,West Java,35-44,Low
+B00691,West Java,25-34,Medium
+B00692,Central Java,25-34,Low
+B00693,West Java,25-34,Low
+B00694,Central Java,35-44,Low
+B00695,North Sumatra,25-34,Low
+B00696,Central Java,35-44,Medium
+B00697,DKI Jakarta,18-24,Medium
+B00698,South Sulawesi,45-54,Medium
+B00699,West Java,25-34,High
+B00700,DKI Jakarta,25-34,Medium
+B00701,East Java,25-34,Medium
+B00702,Banten,45-54,Medium
+B00703,DKI Jakarta,25-34,Low
+B00704,West Java,45-54,Medium
+B00705,Yogyakarta,25-34,High
+B00706,DKI Jakarta,35-44,High
+B00707,West Java,18-24,Medium
+B00708,Central Java,35-44,Medium
+B00709,Banten,55+,Low
+B00710,North Sumatra,25-34,High
+B00711,South Sulawesi,25-34,Medium
+B00712,South Sulawesi,25-34,Low
+B00713,North Sumatra,18-24,Medium
+B00714,West Java,45-54,Low
+B00715,South Sulawesi,25-34,Low
+B00716,DKI Jakarta,45-54,Medium
+B00717,Banten,25-34,Low
+B00718,Yogyakarta,18-24,High
+B00719,Yogyakarta,25-34,Low
+B00720,West Java,55+,Low
+B00721,DKI Jakarta,45-54,Medium
+B00722,Banten,35-44,Low
+B00723,South Sulawesi,35-44,High
+B00724,West Java,45-54,Low
+B00725,Central Java,35-44,Low
+B00726,Central Java,25-34,Medium
+B00727,Riau,25-34,Medium
+B00728,Banten,25-34,High
+B00729,Bali,18-24,High
+B00730,Banten,18-24,Low
+B00731,DKI Jakarta,35-44,High
+B00732,Yogyakarta,25-34,Low
+B00733,DKI Jakarta,45-54,Low
+B00734,Yogyakarta,25-34,Medium
+B00735,Banten,25-34,High
+B00736,East Java,25-34,Low
+B00737,Bali,35-44,Low
+B00738,Banten,18-24,Low
+B00739,Yogyakarta,35-44,Medium
+B00740,Banten,35-44,High
+B00741,DKI Jakarta,35-44,Low
+B00742,DKI Jakarta,55+,High
+B00743,West Java,55+,Medium
+B00744,North Sumatra,18-24,Medium
+B00745,Bali,35-44,High
+B00746,Banten,45-54,Low
+B00747,North Sumatra,45-54,Low
+B00748,Central Java,45-54,Low
+B00749,DKI Jakarta,25-34,Low
+B00750,Central Java,25-34,Low
+B00751,West Java,25-34,Low
+B00752,Yogyakarta,35-44,Medium
+B00753,West Java,35-44,Low
+B00754,East Java,18-24,Medium
+B00755,Yogyakarta,25-34,Low
+B00756,Bali,35-44,Low
+B00757,Central Java,45-54,Low
+B00758,Riau,25-34,Low
+B00759,West Java,45-54,Low
+B00760,Banten,55+,Low
+B00761,West Java,25-34,Medium
+B00762,West Java,45-54,Low
+B00763,West Java,25-34,Medium
+B00764,Central Java,25-34,Low
+B00765,Bali,25-34,Low
+B00766,North Sumatra,25-34,Low
+B00767,Yogyakarta,25-34,Low
+B00768,South Sulawesi,45-54,Low
+B00769,South Sulawesi,25-34,High
+B00770,Banten,25-34,Low
+B00771,Central Java,45-54,Low
+B00772,Riau,25-34,Low
+B00773,West Java,45-54,Low
+B00774,East Java,25-34,Low
+B00775,North Sumatra,35-44,Medium
+B00776,Banten,25-34,Medium
+B00777,East Java,18-24,Low
+B00778,DKI Jakarta,45-54,Medium
+B00779,West Java,35-44,Low
+B00780,West Java,35-44,Low
+B00781,East Java,25-34,Medium
+B00782,DKI Jakarta,35-44,Low
+B00783,Central Java,35-44,Low
+B00784,West Java,35-44,Medium
+B00785,DKI Jakarta,25-34,Medium
+B00786,West Java,25-34,Low
+B00787,DKI Jakarta,55+,Low
+B00788,Banten,35-44,Low
+B00789,South Sulawesi,45-54,Medium
+B00790,Riau,25-34,Low
+B00791,Bali,35-44,Low
+B00792,Banten,25-34,Low
+B00793,South Sulawesi,25-34,Low
+B00794,DKI Jakarta,25-34,Low
+B00795,DKI Jakarta,18-24,Low
+B00796,DKI Jakarta,18-24,Low
+B00797,DKI Jakarta,18-24,Medium
+B00798,Central Java,25-34,Medium
+B00799,East Java,45-54,High
+B00800,North Sumatra,35-44,Medium
+B00801,East Java,45-54,Low
+B00802,West Java,35-44,Low
+B00803,West Java,35-44,Medium
+B00804,East Java,25-34,Low
+B00805,DKI Jakarta,25-34,High
+B00806,West Java,35-44,Low
+B00807,Banten,25-34,Low
+B00808,East Java,45-54,Low
+B00809,Central Java,35-44,Medium
+B00810,DKI Jakarta,25-34,Medium
+B00811,Bali,35-44,Low
+B00812,East Java,25-34,Low
+B00813,Central Java,18-24,Low
+B00814,DKI Jakarta,25-34,Medium
+B00815,East Java,25-34,Medium
+B00816,DKI Jakarta,18-24,Low
+B00817,West Java,25-34,Low
+B00818,North Sumatra,35-44,Low
+B00819,Yogyakarta,45-54,Medium
+B00820,West Java,45-54,Medium
+B00821,East Java,25-34,Medium
+B00822,DKI Jakarta,25-34,Low
+B00823,Banten,25-34,Low
+B00824,DKI Jakarta,45-54,Low
+B00825,DKI Jakarta,25-34,Medium
+B00826,DKI Jakarta,45-54,Low
+B00827,Banten,25-34,Low
+B00828,Central Java,25-34,Low
+B00829,East Java,35-44,Medium
+B00830,Banten,18-24,Medium
+B00831,Yogyakarta,45-54,Medium
+B00832,Central Java,45-54,Low
+B00833,South Sulawesi,35-44,Medium
+B00834,West Java,25-34,Medium
+B00835,DKI Jakarta,35-44,Low
+B00836,Central Java,45-54,Low
+B00837,West Java,35-44,Medium
+B00838,North Sumatra,35-44,Low
+B00839,Riau,35-44,Medium
+B00840,East Java,45-54,Medium
+B00841,North Sumatra,55+,Low
+B00842,West Java,45-54,Low
+B00843,DKI Jakarta,35-44,Medium
+B00844,Central Java,25-34,High
+B00845,Riau,25-34,Medium
+B00846,Central Java,25-34,Medium
+B00847,Central Java,35-44,Low
+B00848,West Java,35-44,Low
+B00849,Central Java,25-34,Medium
+B00850,Central Java,25-34,Medium
+B00851,East Java,25-34,Low
+B00852,Banten,25-34,Low
+B00853,East Java,35-44,High
+B00854,North Sumatra,18-24,Low
+B00855,Central Java,35-44,High
+B00856,DKI Jakarta,35-44,Low
+B00857,Riau,45-54,Low
+B00858,East Java,35-44,Medium
+B00859,West Java,25-34,Low
+B00860,South Sulawesi,25-34,Low
+B00861,West Java,45-54,Medium
+B00862,Banten,45-54,Medium
+B00863,North Sumatra,45-54,Low
+B00864,East Java,25-34,Low
+B00865,Bali,25-34,Medium
+B00866,East Java,25-34,Medium
+B00867,South Sulawesi,25-34,Low
+B00868,West Java,18-24,Medium
+B00869,North Sumatra,35-44,Medium
+B00870,Central Java,35-44,Low
+B00871,Yogyakarta,35-44,Low
+B00872,DKI Jakarta,35-44,High
+B00873,DKI Jakarta,25-34,Low
+B00874,East Java,45-54,Low
+B00875,Central Java,35-44,Medium
+B00876,Banten,25-34,Medium
+B00877,West Java,35-44,Low
+B00878,East Java,35-44,Low
+B00879,Bali,45-54,Medium
+B00880,Banten,25-34,Medium
+B00881,Central Java,35-44,High
+B00882,South Sulawesi,35-44,Medium
+B00883,South Sulawesi,35-44,Low
+B00884,Central Java,25-34,Medium
+B00885,West Java,25-34,Medium
+B00886,Banten,35-44,High
+B00887,West Java,45-54,Low
+B00888,East Java,35-44,Low
+B00889,Yogyakarta,35-44,Low
+B00890,North Sumatra,25-34,Low
+B00891,DKI Jakarta,18-24,Low
+B00892,West Java,45-54,Medium
+B00893,South Sulawesi,45-54,Low
+B00894,Bali,25-34,Medium
+B00895,DKI Jakarta,35-44,Medium
+B00896,Central Java,25-34,Low
+B00897,Central Java,35-44,High
+B00898,North Sumatra,18-24,Low
+B00899,North Sumatra,55+,Low
+B00900,Banten,35-44,Low
+B00901,DKI Jakarta,35-44,Low
+B00902,South Sulawesi,35-44,High
+B00903,North Sumatra,25-34,Medium
+B00904,South Sulawesi,18-24,Medium
+B00905,Central Java,25-34,Medium
+B00906,North Sumatra,25-34,Medium
+B00907,West Java,45-54,Medium
+B00908,Central Java,35-44,Medium
+B00909,Banten,35-44,Medium
+B00910,DKI Jakarta,25-34,Low
+B00911,Central Java,35-44,Medium
+B00912,Yogyakarta,35-44,Low
+B00913,DKI Jakarta,55+,Low
+B00914,West Java,35-44,Low
+B00915,DKI Jakarta,25-34,Low
+B00916,East Java,18-24,Low
+B00917,Banten,55+,Medium
+B00918,DKI Jakarta,25-34,High
+B00919,Bali,35-44,Medium
+B00920,Central Java,18-24,Medium
+B00921,Bali,25-34,Medium
+B00922,Central Java,25-34,Low
+B00923,West Java,25-34,Medium
+B00924,Central Java,55+,Low
+B00925,South Sulawesi,25-34,Medium
+B00926,West Java,18-24,Medium
+B00927,East Java,25-34,Low
+B00928,DKI Jakarta,35-44,Low
+B00929,DKI Jakarta,25-34,Medium
+B00930,West Java,45-54,High
+B00931,West Java,55+,Medium
+B00932,DKI Jakarta,18-24,Low
+B00933,South Sulawesi,55+,Low
+B00934,North Sumatra,18-24,High
+B00935,DKI Jakarta,35-44,Medium
+B00936,DKI Jakarta,25-34,Medium
+B00937,Riau,18-24,High
+B00938,West Java,25-34,Low
+B00939,North Sumatra,18-24,Low
+B00940,East Java,25-34,Low
+B00941,Yogyakarta,25-34,Low
+B00942,Banten,25-34,High
+B00943,Banten,25-34,Medium
+B00944,West Java,35-44,High
+B00945,Banten,18-24,Medium
+B00946,Banten,35-44,Medium
+B00947,Central Java,25-34,Low
+B00948,West Java,45-54,Low
+B00949,Yogyakarta,55+,Low
+B00950,Central Java,55+,Medium
+B00951,West Java,25-34,Medium
+B00952,Riau,45-54,Low
+B00953,DKI Jakarta,25-34,Low
+B00954,Yogyakarta,35-44,High
+B00955,South Sulawesi,45-54,Low
+B00956,West Java,35-44,Low
+B00957,Yogyakarta,18-24,Low
+B00958,DKI Jakarta,25-34,Medium
+B00959,Yogyakarta,25-34,Medium
+B00960,DKI Jakarta,25-34,Low
+B00961,Bali,25-34,Medium
+B00962,West Java,35-44,Medium
+B00963,DKI Jakarta,25-34,Low
+B00964,DKI Jakarta,25-34,Low
+B00965,DKI Jakarta,45-54,Medium
+B00966,Banten,35-44,Low
+B00967,Banten,18-24,Low
+B00968,DKI Jakarta,45-54,Low
+B00969,West Java,55+,Low
+B00970,Bali,45-54,Low
+B00971,DKI Jakarta,25-34,Low
+B00972,South Sulawesi,55+,Medium
+B00973,Central Java,18-24,Medium
+B00974,DKI Jakarta,25-34,Low
+B00975,East Java,45-54,Low
+B00976,DKI Jakarta,25-34,Low
+B00977,DKI Jakarta,45-54,Low
+B00978,East Java,45-54,Medium
+B00979,North Sumatra,35-44,Medium
+B00980,Bali,35-44,Medium
+B00981,West Java,25-34,Low
+B00982,Bali,45-54,Medium
+B00983,DKI Jakarta,18-24,Low
+B00984,Central Java,25-34,Medium
+B00985,DKI Jakarta,25-34,Medium
+B00986,Riau,55+,Low
+B00987,Bali,45-54,Medium
+B00988,North Sumatra,45-54,Low
+B00989,South Sulawesi,35-44,Low
+B00990,East Java,18-24,Medium
+B00991,Banten,25-34,Low
+B00992,Central Java,25-34,Medium
+B00993,Bali,25-34,Medium
+B00994,South Sulawesi,35-44,Medium
+B00995,West Java,25-34,Medium
+B00996,South Sulawesi,25-34,High
+B00997,DKI Jakarta,25-34,Medium
+B00998,Yogyakarta,25-34,Low
+B00999,North Sumatra,25-34,Low
+B01000,West Java,18-24,Medium
+B01001,East Java,25-34,Low
+B01002,Yogyakarta,45-54,Low
+B01003,East Java,35-44,Medium
+B01004,DKI Jakarta,18-24,Medium
+B01005,DKI Jakarta,25-34,Medium
+B01006,Banten,45-54,Medium
+B01007,Banten,25-34,Low
+B01008,DKI Jakarta,35-44,Medium
+B01009,West Java,35-44,Low
+B01010,East Java,35-44,Low
+B01011,North Sumatra,35-44,Medium
+B01012,North Sumatra,45-54,Medium
+B01013,West Java,25-34,Low
+B01014,East Java,25-34,Medium
+B01015,East Java,45-54,Low
+B01016,Banten,35-44,Medium
+B01017,East Java,35-44,Low
+B01018,East Java,25-34,Low
+B01019,West Java,25-34,Medium
+B01020,South Sulawesi,45-54,Low
+B01021,Central Java,35-44,Low
+B01022,DKI Jakarta,25-34,Low
+B01023,Central Java,35-44,Medium
+B01024,East Java,35-44,Low
+B01025,South Sulawesi,25-34,Low
+B01026,DKI Jakarta,35-44,Low
+B01027,Yogyakarta,35-44,Medium
+B01028,West Java,45-54,High
+B01029,West Java,45-54,Low
+B01030,Banten,25-34,Medium
+B01031,East Java,25-34,Low
+B01032,DKI Jakarta,25-34,Low
+B01033,Bali,18-24,High
+B01034,Central Java,35-44,Low
+B01035,Riau,35-44,High
+B01036,West Java,35-44,Medium
+B01037,West Java,35-44,Medium
+B01038,Central Java,35-44,Low
+B01039,East Java,35-44,Low
+B01040,West Java,35-44,Low
+B01041,Central Java,35-44,Low
+B01042,North Sumatra,25-34,Medium
+B01043,Yogyakarta,35-44,Low
+B01044,West Java,25-34,Low
+B01045,Central Java,25-34,Medium
+B01046,Central Java,25-34,Low
+B01047,Banten,25-34,Low
+B01048,Banten,18-24,Medium
+B01049,North Sumatra,18-24,Low
+B01050,West Java,35-44,Low
+B01051,Yogyakarta,35-44,Low
+B01052,West Java,18-24,Medium
+B01053,West Java,25-34,Medium
+B01054,East Java,25-34,Medium
+B01055,South Sulawesi,25-34,Medium
+B01056,Central Java,35-44,Medium
+B01057,DKI Jakarta,18-24,Low
+B01058,West Java,45-54,Medium
+B01059,DKI Jakarta,18-24,High
+B01060,South Sulawesi,45-54,Low
+B01061,Central Java,18-24,Low
+B01062,East Java,35-44,Medium
+B01063,East Java,25-34,Low
+B01064,Central Java,45-54,Low
+B01065,South Sulawesi,18-24,Medium
+B01066,Riau,35-44,Low
+B01067,Yogyakarta,35-44,High
+B01068,DKI Jakarta,35-44,Low
+B01069,South Sulawesi,18-24,Medium
+B01070,West Java,25-34,Medium
+B01071,DKI Jakarta,45-54,Low
+B01072,DKI Jakarta,35-44,Medium
+B01073,West Java,18-24,Medium
+B01074,DKI Jakarta,25-34,Medium
+B01075,DKI Jakarta,35-44,Low
+B01076,Central Java,25-34,Low
+B01077,Central Java,45-54,Low
+B01078,North Sumatra,35-44,Medium
+B01079,South Sulawesi,45-54,Low
+B01080,North Sumatra,45-54,Medium
+B01081,Central Java,55+,Low
+B01082,West Java,25-34,Low
+B01083,West Java,35-44,Medium
+B01084,Central Java,35-44,High
+B01085,DKI Jakarta,35-44,Medium
+B01086,Yogyakarta,55+,Low
+B01087,Banten,55+,Medium
+B01088,DKI Jakarta,25-34,Low
+B01089,East Java,35-44,Low
+B01090,Riau,35-44,Low
+B01091,DKI Jakarta,45-54,Low
+B01092,DKI Jakarta,45-54,Low
+B01093,DKI Jakarta,45-54,Low
+B01094,DKI Jakarta,45-54,High
+B01095,South Sulawesi,35-44,Medium
+B01096,DKI Jakarta,25-34,Low
+B01097,Central Java,35-44,High
+B01098,Banten,35-44,Low
+B01099,DKI Jakarta,25-34,Medium
+B01100,Bali,25-34,Low
+B01101,Banten,45-54,Low
+B01102,DKI Jakarta,25-34,Medium
+B01103,Central Java,25-34,Medium
+B01104,East Java,18-24,Medium
+B01105,Central Java,18-24,Low
+B01106,West Java,18-24,Low
+B01107,DKI Jakarta,35-44,Low
+B01108,Yogyakarta,35-44,Medium
+B01109,East Java,25-34,Low
+B01110,South Sulawesi,35-44,Medium
+B01111,DKI Jakarta,35-44,Medium
+B01112,Yogyakarta,18-24,Medium
+B01113,Central Java,25-34,Low
+B01114,South Sulawesi,35-44,Low
+B01115,West Java,25-34,Medium
+B01116,North Sumatra,45-54,Medium
+B01117,East Java,25-34,Low
+B01118,West Java,25-34,Medium
+B01119,West Java,25-34,Medium
+B01120,West Java,55+,Low
+B01121,South Sulawesi,25-34,Medium
+B01122,Yogyakarta,35-44,High
+B01123,East Java,25-34,Low
+B01124,West Java,45-54,Low
+B01125,West Java,18-24,Medium
+B01126,West Java,35-44,Low
+B01127,East Java,25-34,Medium
+B01128,Central Java,25-34,Low
+B01129,East Java,25-34,High
+B01130,West Java,25-34,Low
+B01131,Central Java,35-44,Medium
+B01132,North Sumatra,25-34,High
+B01133,Riau,25-34,Low
+B01134,Yogyakarta,35-44,Medium
+B01135,West Java,25-34,Low
+B01136,Central Java,35-44,Low
+B01137,Banten,35-44,Low
+B01138,Yogyakarta,35-44,Low
+B01139,Yogyakarta,25-34,High
+B01140,South Sulawesi,18-24,Medium
+B01141,DKI Jakarta,25-34,Low
+B01142,North Sumatra,35-44,Low
+B01143,DKI Jakarta,35-44,High
+B01144,West Java,25-34,High
+B01145,South Sulawesi,25-34,Low
+B01146,Yogyakarta,18-24,Low
+B01147,DKI Jakarta,18-24,High
+B01148,DKI Jakarta,45-54,Medium
+B01149,Banten,35-44,Low
+B01150,DKI Jakarta,45-54,Low
+B01151,Central Java,45-54,Low
+B01152,Riau,25-34,Low
+B01153,West Java,25-34,Low
+B01154,East Java,35-44,Low
+B01155,South Sulawesi,18-24,Low
+B01156,West Java,25-34,Low
+B01157,DKI Jakarta,55+,Low
+B01158,West Java,45-54,Low
+B01159,Central Java,35-44,Low
+B01160,Banten,35-44,Medium
+B01161,South Sulawesi,35-44,Low
+B01162,South Sulawesi,55+,Low
+B01163,South Sulawesi,45-54,Low
+B01164,Central Java,55+,Low
+B01165,Banten,25-34,Medium
+B01166,Banten,18-24,Low
+B01167,South Sulawesi,35-44,Low
+B01168,Bali,25-34,Low
+B01169,Banten,18-24,Low
+B01170,West Java,45-54,Medium
+B01171,DKI Jakarta,35-44,Low
+B01172,Yogyakarta,45-54,Low
+B01173,DKI Jakarta,35-44,High
+B01174,Bali,35-44,Medium
+B01175,West Java,25-34,Medium
+B01176,West Java,25-34,Low
+B01177,DKI Jakarta,18-24,Medium
+B01178,Yogyakarta,25-34,Low
+B01179,North Sumatra,18-24,Medium
+B01180,DKI Jakarta,35-44,Medium
+B01181,East Java,25-34,Low
+B01182,West Java,35-44,High
+B01183,Yogyakarta,18-24,Low
+B01184,West Java,25-34,Medium
+B01185,West Java,35-44,Low
+B01186,DKI Jakarta,35-44,Medium
+B01187,DKI Jakarta,35-44,Low
+B01188,South Sulawesi,25-34,Medium
+B01189,Banten,25-34,Low
+B01190,East Java,55+,Low
+B01191,East Java,35-44,Medium
+B01192,West Java,35-44,Low
+B01193,North Sumatra,18-24,Medium
+B01194,DKI Jakarta,25-34,Medium
+B01195,Central Java,25-34,Medium
+B01196,DKI Jakarta,35-44,Medium
+B01197,Bali,55+,High
+B01198,DKI Jakarta,35-44,Low
+B01199,Central Java,35-44,Low
+B01200,South Sulawesi,18-24,Medium
+B01201,Banten,25-34,Medium
+B01202,Bali,35-44,Low
+B01203,DKI Jakarta,45-54,Low
+B01204,West Java,25-34,Medium
+B01205,Bali,45-54,Low
+B01206,DKI Jakarta,55+,Low
+B01207,Bali,35-44,Medium
+B01208,West Java,35-44,Medium
+B01209,Yogyakarta,45-54,Low
+B01210,North Sumatra,25-34,Medium
+B01211,DKI Jakarta,35-44,Low
+B01212,Banten,45-54,Low
+B01213,North Sumatra,55+,Medium
+B01214,West Java,25-34,Low
+B01215,Central Java,35-44,High
+B01216,DKI Jakarta,25-34,High
+B01217,West Java,35-44,High
+B01218,DKI Jakarta,35-44,Medium
+B01219,East Java,25-34,Low
+B01220,DKI Jakarta,35-44,Low
+B01221,Yogyakarta,45-54,High
+B01222,Central Java,18-24,Low
+B01223,West Java,25-34,Medium
+B01224,Yogyakarta,25-34,Low
+B01225,Central Java,55+,Medium
+B01226,East Java,25-34,Low
+B01227,East Java,45-54,Medium
+B01228,West Java,55+,Low
+B01229,West Java,25-34,High
+B01230,West Java,25-34,High
+B01231,Yogyakarta,18-24,Medium
+B01232,West Java,25-34,Low
+B01233,Banten,25-34,Medium
+B01234,East Java,45-54,Low
+B01235,Central Java,35-44,Low
+B01236,South Sulawesi,25-34,Low
+B01237,DKI Jakarta,35-44,Medium
+B01238,Banten,35-44,Medium
+B01239,Yogyakarta,25-34,Low
+B01240,South Sulawesi,25-34,Low
+B01241,South Sulawesi,25-34,Medium
+B01242,Central Java,35-44,Medium
+B01243,DKI Jakarta,45-54,Low
+B01244,West Java,18-24,Low
+B01245,Yogyakarta,25-34,Low
+B01246,DKI Jakarta,25-34,Low
+B01247,East Java,35-44,Low
+B01248,DKI Jakarta,35-44,Medium
+B01249,West Java,45-54,Medium
+B01250,Banten,18-24,Low
+B01251,Yogyakarta,18-24,Medium
+B01252,Central Java,35-44,High
+B01253,DKI Jakarta,35-44,Medium
+B01254,South Sulawesi,25-34,Low
+B01255,South Sulawesi,55+,Medium
+B01256,Central Java,25-34,Medium
+B01257,Central Java,25-34,Medium
+B01258,North Sumatra,45-54,Low
+B01259,West Java,35-44,Low
+B01260,Central Java,55+,Low
+B01261,DKI Jakarta,25-34,Medium
+B01262,North Sumatra,25-34,Low
+B01263,South Sulawesi,45-54,Low
+B01264,DKI Jakarta,25-34,Medium
+B01265,Yogyakarta,25-34,Medium
+B01266,North Sumatra,35-44,Low
+B01267,Banten,25-34,Medium
+B01268,Banten,35-44,Low
+B01269,North Sumatra,25-34,Medium
+B01270,Central Java,35-44,Medium
+B01271,DKI Jakarta,35-44,Medium
+B01272,South Sulawesi,35-44,High
+B01273,DKI Jakarta,35-44,Low
+B01274,East Java,25-34,Low
+B01275,South Sulawesi,18-24,High
+B01276,Banten,55+,Low
+B01277,East Java,35-44,High
+B01278,West Java,25-34,Medium
+B01279,Banten,35-44,Low
+B01280,Bali,25-34,Medium
+B01281,East Java,25-34,Low
+B01282,North Sumatra,25-34,High
+B01283,East Java,35-44,Low
+B01284,North Sumatra,25-34,Low
+B01285,DKI Jakarta,25-34,Low
+B01286,West Java,18-24,High
+B01287,DKI Jakarta,35-44,Medium
+B01288,North Sumatra,35-44,Low
+B01289,West Java,18-24,Low
+B01290,DKI Jakarta,35-44,Low
+B01291,Bali,25-34,Medium
+B01292,Central Java,45-54,Low
+B01293,West Java,35-44,Medium
+B01294,Yogyakarta,25-34,Low
+B01295,Banten,25-34,Medium
+B01296,DKI Jakarta,45-54,Low
+B01297,DKI Jakarta,25-34,Low
+B01298,Bali,35-44,High
+B01299,Yogyakarta,25-34,Low
+B01300,Banten,35-44,High
+B01301,Bali,35-44,Medium
+B01302,DKI Jakarta,45-54,Low
+B01303,West Java,35-44,Low
+B01304,DKI Jakarta,25-34,Low
+B01305,East Java,18-24,Low
+B01306,Banten,35-44,Low
+B01307,South Sulawesi,45-54,Low
+B01308,North Sumatra,25-34,Medium
+B01309,Banten,35-44,Low
+B01310,East Java,35-44,Low
+B01311,Yogyakarta,35-44,Medium
+B01312,Central Java,18-24,Medium
+B01313,Riau,45-54,High
+B01314,East Java,25-34,Low
+B01315,DKI Jakarta,45-54,Low
+B01316,West Java,35-44,Low
+B01317,West Java,18-24,Medium
+B01318,Banten,35-44,Medium
+B01319,West Java,35-44,Medium
+B01320,East Java,35-44,Medium
+B01321,West Java,25-34,Low
+B01322,West Java,18-24,Low
+B01323,West Java,35-44,Low
+B01324,Bali,25-34,Medium
+B01325,DKI Jakarta,35-44,High
+B01326,East Java,45-54,Medium
+B01327,West Java,25-34,Low
+B01328,DKI Jakarta,45-54,Low
+B01329,Banten,25-34,Medium
+B01330,East Java,45-54,Low
+B01331,West Java,35-44,Low
+B01332,Banten,45-54,Low
+B01333,South Sulawesi,25-34,Medium
+B01334,West Java,18-24,Low
+B01335,South Sulawesi,25-34,Low
+B01336,South Sulawesi,55+,Medium
+B01337,Bali,55+,Low
+B01338,West Java,35-44,Low
+B01339,East Java,25-34,Low
+B01340,West Java,35-44,High
+B01341,DKI Jakarta,45-54,Low
+B01342,West Java,25-34,Low
+B01343,Yogyakarta,18-24,Low
+B01344,Banten,25-34,High
+B01345,Bali,35-44,Low
+B01346,East Java,55+,Low
+B01347,Central Java,45-54,Medium
+B01348,West Java,18-24,Low
+B01349,North Sumatra,25-34,Low
+B01350,DKI Jakarta,25-34,Low
+B01351,Central Java,25-34,Low
+B01352,West Java,25-34,Medium
+B01353,Central Java,45-54,Medium
+B01354,DKI Jakarta,25-34,Low
+B01355,DKI Jakarta,25-34,High
+B01356,West Java,18-24,Low
+B01357,North Sumatra,35-44,Low
+B01358,Central Java,18-24,Low
+B01359,East Java,55+,Medium
+B01360,Banten,45-54,Low
+B01361,Central Java,25-34,Medium
+B01362,Banten,45-54,Low
+B01363,Bali,25-34,Low
+B01364,North Sumatra,25-34,Low
+B01365,DKI Jakarta,18-24,Low
+B01366,Bali,35-44,Low
+B01367,West Java,55+,Low
+B01368,Central Java,45-54,High
+B01369,East Java,45-54,Low
+B01370,West Java,45-54,Low
+B01371,DKI Jakarta,35-44,Low
+B01372,Bali,45-54,Low
+B01373,East Java,25-34,Low
+B01374,Central Java,18-24,Low
+B01375,Bali,35-44,Medium
+B01376,West Java,25-34,Medium
+B01377,Bali,35-44,Medium
+B01378,West Java,35-44,Medium
+B01379,DKI Jakarta,25-34,Medium
+B01380,Central Java,25-34,Medium
+B01381,Bali,25-34,High
+B01382,Yogyakarta,45-54,Low
+B01383,West Java,25-34,Medium
+B01384,Banten,25-34,Low
+B01385,Riau,45-54,Low
+B01386,DKI Jakarta,45-54,Medium
+B01387,North Sumatra,55+,Medium
+B01388,East Java,35-44,Medium
+B01389,Central Java,35-44,Medium
+B01390,DKI Jakarta,35-44,Low
+B01391,DKI Jakarta,35-44,Medium
+B01392,Central Java,25-34,Low
+B01393,West Java,35-44,Low
+B01394,DKI Jakarta,35-44,Low
+B01395,Yogyakarta,35-44,Medium
+B01396,DKI Jakarta,25-34,Medium
+B01397,East Java,25-34,Low
+B01398,Yogyakarta,25-34,Medium
+B01399,DKI Jakarta,18-24,Medium
+B01400,Banten,25-34,Medium
+B01401,East Java,25-34,High
+B01402,Central Java,25-34,Low
+B01403,DKI Jakarta,35-44,Low
+B01404,East Java,18-24,Medium
+B01405,Bali,35-44,Low
+B01406,Banten,25-34,High
+B01407,West Java,25-34,Low
+B01408,South Sulawesi,35-44,Low
+B01409,DKI Jakarta,35-44,Medium
+B01410,DKI Jakarta,18-24,Low
+B01411,West Java,35-44,High
+B01412,Central Java,25-34,Medium
+B01413,West Java,35-44,Low
+B01414,Central Java,25-34,Medium
+B01415,North Sumatra,25-34,High
+B01416,South Sulawesi,18-24,Low
+B01417,West Java,35-44,Low
+B01418,Yogyakarta,35-44,Low
+B01419,East Java,45-54,Low
+B01420,Central Java,25-34,Low
+B01421,DKI Jakarta,18-24,Low
+B01422,Central Java,45-54,Medium
+B01423,West Java,55+,Medium
+B01424,East Java,35-44,Medium
+B01425,Banten,45-54,Medium
+B01426,Banten,35-44,Low
+B01427,Banten,18-24,Medium
+B01428,DKI Jakarta,45-54,Low
+B01429,DKI Jakarta,35-44,Medium
+B01430,East Java,35-44,Low
+B01431,West Java,18-24,Low
+B01432,West Java,25-34,Low
+B01433,East Java,45-54,Medium
+B01434,DKI Jakarta,35-44,Medium
+B01435,South Sulawesi,35-44,Medium
+B01436,West Java,25-34,Medium
+B01437,Riau,35-44,High
+B01438,DKI Jakarta,55+,Medium
+B01439,West Java,35-44,Low
+B01440,DKI Jakarta,18-24,Low
+B01441,East Java,35-44,Low
+B01442,Central Java,25-34,High
+B01443,South Sulawesi,35-44,Low
+B01444,DKI Jakarta,25-34,Low
+B01445,Bali,25-34,Low
+B01446,West Java,18-24,Low
+B01447,West Java,25-34,Low
+B01448,Banten,45-54,High
+B01449,DKI Jakarta,18-24,Low
+B01450,DKI Jakarta,35-44,Low
+B01451,Central Java,35-44,Low
+B01452,East Java,35-44,Low
+B01453,Central Java,18-24,Low
+B01454,East Java,35-44,Low
+B01455,DKI Jakarta,25-34,Low
+B01456,Yogyakarta,25-34,Low
+B01457,DKI Jakarta,35-44,Low
+B01458,West Java,25-34,Low
+B01459,West Java,25-34,Medium
+B01460,Banten,25-34,Medium
+B01461,West Java,25-34,Low
+B01462,Yogyakarta,35-44,Low
+B01463,South Sulawesi,55+,Medium
+B01464,DKI Jakarta,45-54,High
+B01465,Central Java,35-44,High
+B01466,East Java,35-44,High
+B01467,North Sumatra,25-34,Medium
+B01468,Central Java,35-44,High
+B01469,Bali,35-44,High
+B01470,North Sumatra,35-44,Medium
+B01471,Central Java,45-54,High
+B01472,East Java,25-34,Low
+B01473,Yogyakarta,25-34,Low
+B01474,Banten,25-34,Low
+B01475,West Java,35-44,Low
+B01476,Riau,45-54,Low
+B01477,Banten,35-44,Low
+B01478,Banten,45-54,Low
+B01479,West Java,45-54,High
+B01480,North Sumatra,25-34,Low
+B01481,East Java,45-54,Medium
+B01482,Banten,18-24,Low
+B01483,Banten,25-34,Low
+B01484,West Java,18-24,Low
+B01485,East Java,25-34,Medium
+B01486,South Sulawesi,45-54,Medium
+B01487,DKI Jakarta,18-24,Low
+B01488,Yogyakarta,25-34,Medium
+B01489,DKI Jakarta,35-44,Medium
+B01490,Yogyakarta,35-44,Medium
+B01491,West Java,18-24,High
+B01492,Central Java,25-34,Low
+B01493,West Java,25-34,Low
+B01494,East Java,45-54,Low
+B01495,Central Java,18-24,Medium
+B01496,Banten,18-24,Low
+B01497,South Sulawesi,55+,High
+B01498,Yogyakarta,35-44,Medium
+B01499,Central Java,35-44,Medium
+B01500,North Sumatra,45-54,Low
